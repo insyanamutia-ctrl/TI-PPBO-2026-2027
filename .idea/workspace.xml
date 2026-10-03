@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a94b1df8-3223-4eea-ba0a-2a91253acf19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/BilanganTerbesar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Praktikum-3/src/Ganjilgenap.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Praktikum-3/src/IfDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Praktikum-3/src/KalkulatorSwitch.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Praktikum-3/src/LogikaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/Makanansederhana.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Praktikum-3/src/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/UmurdanStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/indeksmasatubuh.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +44,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BilanganTerbesar.executor": "Run",
     "Application.Ganjilgenap.executor": "Run",
     "Application.IfDemo.executor": "Run",
     "Application.KalkulatorSwitch.executor": "Run",
     "Application.LogikaDemo.executor": "Run",
+    "Application.Makanansederhana.executor": "Run",
     "Application.SwitchDemo.executor": "Run",
+    "Application.UmurdanStatus.executor": "Run",
+    "Application.indeksmasatubuh.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
