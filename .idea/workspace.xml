@@ -36,6 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BilanganTerbesar.executor": "Run",
+    "Application.BreakContinueDemo.executor": "Run",
+    "Application.DoWhileDemo.executor": "Run",
     "Application.ForDemo.executor": "Run",
     "Application.Ganjilgenap.executor": "Run",
     "Application.HitungTarifListrik.executor": "Run",
@@ -43,6 +45,7 @@
     "Application.KalkulatorSwitch.executor": "Run",
     "Application.LogikaDemo.executor": "Run",
     "Application.Makanansederhana.executor": "Run",
+    "Application.PolaBintang.executor": "Run",
     "Application.SwitchDemo.executor": "Run",
     "Application.UmurdanStatus.executor": "Run",
     "Application.WhileDemo.executor": "Run",
