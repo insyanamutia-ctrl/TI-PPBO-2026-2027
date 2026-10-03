@@ -36,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BilanganTerbesar.executor": "Run",
+    "Application.ForDemo.executor": "Run",
     "Application.Ganjilgenap.executor": "Run",
     "Application.HitungTarifListrik.executor": "Run",
     "Application.IfDemo.executor": "Run",
@@ -44,6 +45,7 @@
     "Application.Makanansederhana.executor": "Run",
     "Application.SwitchDemo.executor": "Run",
     "Application.UmurdanStatus.executor": "Run",
+    "Application.WhileDemo.executor": "Run",
     "Application.indeksmasatubuh.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
