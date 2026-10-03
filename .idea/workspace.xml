@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayDemo.executor": "Run",
     "Application.BilanganTerbesar.executor": "Run",
     "Application.BreakContinueDemo.executor": "Run",
     "Application.DoWhileDemo.executor": "Run",
@@ -45,6 +46,7 @@
     "Application.KalkulatorSwitch.executor": "Run",
     "Application.LogikaDemo.executor": "Run",
     "Application.Makanansederhana.executor": "Run",
+    "Application.OperasiArray.executor": "Run",
     "Application.PolaBintang.executor": "Run",
     "Application.SwitchDemo.executor": "Run",
     "Application.UmurdanStatus.executor": "Run",
