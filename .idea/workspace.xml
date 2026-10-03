@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a94b1df8-3223-4eea-ba0a-2a91253acf19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/BilanganTerbesar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/Ganjilgenap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/IfDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/KalkulatorSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/LogikaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/Makanansederhana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/SwitchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/UmurdanStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Praktikum-3/src/indeksmasatubuh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3KAl8TPNMaNE3FugQSCFWuMiIy0" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,6 +37,7 @@
   "keyToString": {
     "Application.BilanganTerbesar.executor": "Run",
     "Application.Ganjilgenap.executor": "Run",
+    "Application.HitungTarifListrik.executor": "Run",
     "Application.IfDemo.executor": "Run",
     "Application.KalkulatorSwitch.executor": "Run",
     "Application.LogikaDemo.executor": "Run",
@@ -61,14 +53,28 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/L13/TI-PPBO-2026-2027",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\L13\TI-PPBO-2026-2027\Praktikum-3\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Praktikum-3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Praktikum-3" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
