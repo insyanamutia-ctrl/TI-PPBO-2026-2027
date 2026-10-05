@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a94b1df8-3223-4eea-ba0a-2a91253acf19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Praktikum-5/src/OverloadingDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum-5/src/MethodArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum-5/src/MethodArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum-5/src/OverloadingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum-5/src/OverloadingDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
     "Application.Latihan6.executor": "Run",
     "Application.LogikaDemo.executor": "Run",
     "Application.Makanansederhana.executor": "Run",
+    "Application.MethodArrayDemo.executor": "Run",
     "Application.MethodDemo.executor": "Run",
     "Application.OperasiArray.executor": "Run",
     "Application.OverloadingDemo.executor": "Run",
