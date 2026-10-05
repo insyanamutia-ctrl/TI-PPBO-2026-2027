@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a94b1df8-3223-4eea-ba0a-2a91253acf19" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praktikum-5/src/MethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum-5/src/MethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/Praktikum-5/MethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/Praktikum-5/MethodDemo.class" afterDir="false" />
-    </list>
+    <list default="true" id="a94b1df8-3223-4eea-ba0a-2a91253acf19" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +55,7 @@
     "Application.OperasiArray.executor": "Run",
     "Application.PengolahanNilaiKelas.executor": "Run",
     "Application.PolaBintang.executor": "Run",
+    "Application.ReturnDemo.executor": "Run",
     "Application.SwitchDemo.executor": "Run",
     "Application.UmurdanStatus.executor": "Run",
     "Application.WhileDemo.executor": "Run",
