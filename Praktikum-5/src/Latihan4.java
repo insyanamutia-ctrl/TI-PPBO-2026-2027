@@ -45,6 +45,6 @@ public class Latihan4 {
         System.out.println("Nilai maksimum: "
                 + cariNilaiMaksimum(nilaiUjian));
 
-        input.close();
+
     }
 }

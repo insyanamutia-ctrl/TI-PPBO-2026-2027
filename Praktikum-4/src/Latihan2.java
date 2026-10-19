@@ -23,6 +23,5 @@ public class Latihan2 {
             }
             System.out.println();
         }
-        input.close();
     }
 }

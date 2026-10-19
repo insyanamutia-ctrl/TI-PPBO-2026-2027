@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a94b1df8-3223-4eea-ba0a-2a91253acf19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Praktikum-5/src/Latihan5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/praktimu-6/src/latihanClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/praktimu-6/src/mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/praktimu/praktimu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum-4/src/Latihan2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum-4/src/Latihan2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum-5/src/Latihan4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum-5/src/Latihan4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/Praktikum-5/Latihan4.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/Praktikum-5/Latihan4.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +53,7 @@
     "Application.Ganjilgenap.executor": "Run",
     "Application.HitungTarifListrik.executor": "Run",
     "Application.IfDemo.executor": "Run",
+    "Application.KalkulatorMethod.executor": "Run",
     "Application.KalkulatorSwitch.executor": "Run",
     "Application.Latihan1.executor": "Run",
     "Application.Latihan2.executor": "Run",
@@ -66,6 +76,7 @@
     "Application.UmurdanStatus.executor": "Run",
     "Application.WhileDemo.executor": "Run",
     "Application.indeksmasatubuh.executor": "Run",
+    "Application.latihanClass.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -74,10 +85,15 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/L13/TI-PPBO-2026-2027",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -107,5 +123,16 @@
       <updated>1791008093366</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Praktikum-5/src/Latihan5.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
