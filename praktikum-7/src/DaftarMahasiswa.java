@@ -6,15 +6,15 @@ public static void main(String[] args){
     daftar[1] = new mahasiswa("siti", "121",3.6);
     daftar[2] = new mahasiswa("Andi", "333",3.8);
 for (mahasiswa m : daftar){
-    m.tampilkamData();
+    //m.tampilkamData();
     System.out.println("__");
 }
 int jumlahCumlaude = 0;
 for (mahasiswa m : daftar){
-    if(m.isCumlaude()){
+    //if(m.isCumlaude()){
         jumlahCumlaude ++;
     }
 }
-System.out.println("Jumlah mahasiswa cumlaude: " + jumlahCumlaude);
+//System.out.println("Jumlah mahasiswa cumlaude: " + jumlahCumlaude);
 }
-}
+//}
