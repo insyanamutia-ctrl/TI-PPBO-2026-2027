@@ -1,7 +1,7 @@
 public class Buku {
-    String judul;
-    String pengarang;
-    int tahunTerbit;
+    private String judul;
+    private String pengarang;
+   private int tahunTerbit;
 
     public Buku(String judul, String pengarang, int tahunTerbit) {
         this.judul = judul;
@@ -9,10 +9,28 @@ public class Buku {
         this.tahunTerbit = tahunTerbit;
     }
 
-    public char cetakBuku() {
-        System.out.println("Judul: " + judul);
-        System.out.println("Pengarang: " + pengarang);
-        System.out.println("Tahun Terbit: " + tahunTerbit);
-        return 0;
+    public  String getJudul(){
+        return judul;
     }
+    public String getPengarang(){
+        return pengarang;
+    }
+    public int getTahunTerbit(){
+        return tahunTerbit;
+    }
+   public void setJudul(String judul){
+        if (judul== "Basis Data"){
+            this.judul=judul;
+        }else{
+            System.out.println("Judul tidak sesuai");
+        }
+   }
+   public void setPengarang(String pengarang){
+        if (pengarang=="Andi"){
+            this.pengarang=pengarang;
+        }else {
+            System.out.println("Nama pengarang tidak tersedia");
+        }
+
+   }
 }
