@@ -6,5 +6,6 @@ public class Manager extends Pegawai {
                      double tunjanganJabatan ) {
      super ( nama, nip , gajiPokok ); // panggil constructor Pegawai
          this . tunjanganJabatan = tunjanganJabatan ;
+        System . out . println ( "2. Constructor Manager dijalankan" );
  }
  }

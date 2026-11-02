@@ -3,10 +3,12 @@ public class Pegawai {
  protected String nip ;
  protected double gajiPokok ;
 
+
  public Pegawai ( String nama, String nip , double gajiPokok ) {
          this . nama = nama;
          this . nip = nip ;
          this . gajiPokok = gajiPokok ;
+     System . out . println ( "1. Constructor Pegawai dijalankan" );
  }
 
  public void tampilkanData () {
