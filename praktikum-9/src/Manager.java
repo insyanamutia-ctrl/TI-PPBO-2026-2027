@@ -1,4 +1,4 @@
 package PACKAGE_NAME;
 
-public class latihan2 {
+public class Manager {
 }

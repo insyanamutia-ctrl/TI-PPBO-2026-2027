@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public class Anjing extends Hewan {
 
-public class Anjing {
 }

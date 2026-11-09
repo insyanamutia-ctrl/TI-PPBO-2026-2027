@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public class Kucing extends Hewan {
 
-public class Kucing {
 }

@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
+public class Motor extends Kendaraan {
+    private String jenisMotor; // "Matic" / "Manual"
 
-public class Motor {
+    public Motor(String merek, int kecepatanMaks, String jenisMotor) {
+        super(merek, kecepatanMaks);
+        this.jenisMotor = jenisMotor;
+    }
 }

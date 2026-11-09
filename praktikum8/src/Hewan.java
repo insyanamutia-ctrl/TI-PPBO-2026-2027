@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
-
 public class Hewan {
+    protected String nama;
+
+    public void bersuara() {
+        System.out.println("...");
+    }
 }
